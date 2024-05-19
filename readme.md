@@ -122,8 +122,6 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0c7fr56muocq15feajc03kgh3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0c7fr56muocq15feajc03kgh3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/0c7fr56muocq15feajc03kgh3?si=c0c0976362eb49dc)
 </div>
-
-
 
