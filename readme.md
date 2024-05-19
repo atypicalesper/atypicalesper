@@ -25,7 +25,7 @@
         ~ Photography📸<br>
         ~ And mechanical Keyboards ⌨️<br>
       </p>
-    </span>
+    </span> 
      <!-- <span style="flex: 1; padding: 5px;">
       <p style="font-size: 18px;">
         <b style="font-size: 24px;">Currently Exploring ✨</b><br>
@@ -61,7 +61,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 
