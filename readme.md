@@ -102,7 +102,7 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white) <!--- I use arch btw--->
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
 ![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
