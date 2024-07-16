@@ -131,7 +131,7 @@
 
   <div align="center">
     <a href="https://open.spotify.com/user/0c7fr56muocq15feajc03kgh3?si=c0c0976362eb49dc">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=0c7fr56muocq15feajc03kgh3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0c7fr56muocq15feajc03kgh3&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0c7fr56muocq15feajc03kgh3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4e51b1&bar_color_cover=true)" alt="Spotify Profile" />
     </a>
   </div>
 </div>
