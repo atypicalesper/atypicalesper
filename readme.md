@@ -3,7 +3,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
+
 <div style="font-family: 'Chivo Mono', monospace; text-align: center;">
+
+<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey!%20I'm%20Tarun%20(aka%20Esper)&fontSize=30&fontColor=fff&animation=fadeIn) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontColor=fff&animation=fadeIn)
+
+
   <p align="center">
     <a href="https://atypicalesper.github.io/">
       <img height="400px" width="450px" alt="Tarun" src="hello.gif" />
@@ -129,9 +135,14 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  <div align="center">
+  <!-- <div align="center">
     <a href="https://open.spotify.com/user/0c7fr56muocq15feajc03kgh3?si=c0c0976362eb49dc">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0c7fr56muocq15feajc03kgh3&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0c7fr56muocq15feajc03kgh3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4e51b1&bar_color_cover=true)" alt="Spotify Profile" />
     </a>
+  </div> -->
+  <div align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
   </div>
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 </div>
