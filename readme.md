@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey!%20I'm%20Tarun%20(aka%20Esper)&fontSize=30&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey!%20I'm%20Tarun%20&fontSize=30&fontColor=fff&animation=fadeIn)
 
 <div align="center">
   <a href="https://atypicalesper.github.io/">
@@ -92,4 +92,10 @@
   </a>
 </div>
 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
