@@ -88,6 +88,7 @@
     <tr>
       <td valign="top" align="center">
         <b>🤖 AI & ML</b><br><br>
+        <img src="https://img.shields.io/badge/Claude-D97757.svg?logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black" />
