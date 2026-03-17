@@ -52,93 +52,75 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=🛠️%20Tech%20Stack&fontSize=18&fontColor=fff" />
 
-  ### 👨‍💻 Languages
-
-  <div align="center">
-
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-  ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
-
-  </div>
-
-  ### 🎨 Frontend
-
-  <div align="center">
-
-  ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
-
-  </div>
-
-  ### ⚙️ Backend
-
-  <div align="center">
-
-  ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-  ![AdonisJS](https://img.shields.io/badge/AdonisJS-%23220052.svg?style=flat&logo=adonisjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
-  ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
-
-  </div>
-
-  ### 🤖 AI & Machine Learning
-
-  <div align="center">
-
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
-  ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black)
-  ![Groq](https://img.shields.io/badge/Groq-F55036.svg?logo=groq&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white)
-
-  </div>
-
-  ### 🗄️ Databases & Cloud
-
-  <div align="center">
-
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
-  ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00.svg?logo=databricks&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
-  ![Railway](https://img.shields.io/badge/Railway-0B0D0E.svg?logo=railway&logoColor=white)
-  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
-
-  </div>
-
-  ### 💻 Tools & Platforms
-
-  <div align="center">
-
-  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
-  ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-  ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white)
-  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)
-
-  </div>
+  <table width="100%">
+    <tr>
+      <td width="33%" valign="top" align="center">
+        <b>👨‍💻 Languages</b><br><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+        <img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" />
+      </td>
+      <td width="33%" valign="top" align="center">
+        <b>🎨 Frontend</b><br><br>
+        <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white" />
+        <br><br>
+        <b>🤖 AI & ML</b><br><br>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Groq-F55036.svg?logo=groq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white" />
+      </td>
+      <td width="33%" valign="top" align="center">
+        <b>⚙️ Backend</b><br><br>
+        <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+        <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/AdonisJS-%23220052.svg?style=flat&logo=adonisjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center">
+        <b>🗄️ Databases & Cloud</b><br><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F00.svg?logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?logo=railway&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
+      </td>
+      <td colspan="2" valign="top" align="center">
+        <b>💻 Tools & Platforms</b><br><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" />
+        <img src="https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
   <br>
 
