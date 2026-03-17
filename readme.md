@@ -22,7 +22,7 @@
           ~ Writing code, occasionally it works 👨🏻‍💻<br>
           ~ Anime enthusiast (❁´◡`❁)<br>
           ~ Music &amp; photography 🎶📸<br>
-          ~ Mechanical keyboard collector ⌨️<br>
+          ~ Mechanical keyboard enjoyer ⌨️<br>
         </p>
       </td>
       <td>
