@@ -51,6 +51,7 @@
   <br>
 
   ## 🛠️ Tech Stack
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
   ### 👨‍💻 Languages
 
@@ -143,6 +144,7 @@
   <br>
 
   ## 📊 GitHub Stats
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
   <div align="center">
     <table>
