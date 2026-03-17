@@ -50,8 +50,7 @@
 
   <br>
 
-  <h2>🛠️ Tech Stack</h2>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=🛠️%20Tech%20Stack&fontSize=18&fontColor=fff" />
 
   ### 👨‍💻 Languages
 
@@ -143,8 +142,7 @@
 
   <br>
 
-  <h2>📊 GitHub Stats</h2>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=📊%20GitHub%20Stats&fontSize=18&fontColor=fff" />
 
   <div align="center">
     <table>
