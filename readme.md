@@ -79,13 +79,23 @@
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
   ![AdonisJS](https://img.shields.io/badge/AdonisJS-%23220052.svg?style=flat&logo=adonisjs&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
-  ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white)
+
+  </div>
+
+  ### 🤖 AI & Machine Learning
+
+  <div align="center">
+
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black)
+  ![Groq](https://img.shields.io/badge/Groq-F55036.svg?logo=groq&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white)
 
   </div>
 
@@ -129,9 +139,22 @@
   ## 📊 GitHub Stats
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atypicalesper&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/><br/>
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        </td>
+        <td>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=atypicalesper&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        </td>
+      </tr>
+    </table>
+    <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
   </div>
 
