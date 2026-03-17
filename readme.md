@@ -50,7 +50,7 @@
 
   <br>
 
-  ## 🛠️ Tech Stack
+  <h2>🛠️ Tech Stack</h2>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
   ### 👨‍💻 Languages
@@ -143,7 +143,7 @@
 
   <br>
 
-  ## 📊 GitHub Stats
+  <h2>📊 GitHub Stats</h2>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
   <div align="center">
