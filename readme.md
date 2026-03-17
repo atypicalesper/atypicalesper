@@ -131,7 +131,8 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=atypicalesper&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
   </div>
 
   <br>
