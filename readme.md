@@ -71,13 +71,6 @@
         <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white" />
-        <br><br>
-        <b>🤖 AI & ML</b><br><br>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/Groq-F55036.svg?logo=groq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white" />
       </td>
       <td width="33%" valign="top" align="center">
         <b>⚙️ Backend</b><br><br>
@@ -94,6 +87,14 @@
     </tr>
     <tr>
       <td valign="top" align="center">
+        <b>🤖 AI & ML</b><br><br>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Groq-F55036.svg?logo=groq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white" />
+      </td>
+      <td valign="top" align="center">
         <b>🗄️ Databases & Cloud</b><br><br>
         <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
@@ -105,7 +106,7 @@
         <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?logo=railway&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" />
       </td>
-      <td colspan="2" valign="top" align="center">
+      <td valign="top" align="center">
         <b>💻 Tools & Platforms</b><br><br>
         <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
