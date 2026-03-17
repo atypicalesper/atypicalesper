@@ -19,8 +19,7 @@
       </td>
       <td>
         <p style="font-size: 18px; text-align: left;">
-          <b style="font-size: 24px;">A few things about me</b><br><br>
-          ~ Full-stack developer &amp; builder 👨🏻‍💻<br>
+          ~ Writing code, occasionally it works 👨🏻‍💻<br>
           ~ Anime enthusiast (❁´◡`❁)<br>
           ~ Music &amp; photography 🎶📸<br>
           ~ Mechanical keyboard collector ⌨️<br>
@@ -69,21 +68,29 @@
 
   </div>
 
-  ### 🧰 Frameworks & Libraries
+  ### 🎨 Frontend
 
   <div align="center">
 
   ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
+
+  </div>
+
+  ### ⚙️ Backend
+
+  <div align="center">
+
   ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
   ![AdonisJS](https://img.shields.io/badge/AdonisJS-%23220052.svg?style=flat&logo=adonisjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 
   </div>
 
@@ -120,7 +127,6 @@
   <div align="center">
 
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
