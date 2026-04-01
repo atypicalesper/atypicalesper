@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Hi%2C+This+is+Tarun+%F0%9F%91%8B;a+software+developer%2C;based+in+Gurugram%2C+India" alt="Typing SVG" />
 
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=604800" alt="GitHub Trophies" />
   </div>
 
   <br>
@@ -132,15 +132,15 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=604800" alt="GitHub Stats" />
         </td>
         <td>
-          <img src="https://streak-stats.demolab.com/?user=atypicalesper&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com/?user=atypicalesper&theme=tokyonight&hide_border=false&cache_seconds=604800" alt="GitHub Streak" />
         </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=604800" alt="Top Languages" />
         </td>
       </tr>
     </table>
