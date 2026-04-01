@@ -4,9 +4,9 @@
 
   <a href="https://atypicalesper.github.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=300&color=F472B6,00BFFF,00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&speed=2&lines=Hi%2C+This+is+Tarun%2C;a+software+developer%2C;based+in+Gurugram%2C+India" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=300&color=EC4899,7C3AED,7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&speed=2&lines=Hi%2C+This+is+Tarun%2C;a+software+developer%2C;based+in+Gurugram%2C+India" />
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=300&color=F472B6,00BFFF,00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&speed=2&lines=Hi%2C+This+is+Tarun%2C;a+software+developer%2C;based+in+Gurugram%2C+India" />
+      <source media="(prefers-color-scheme: dark)" srcset="hello.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="hello-light.gif" />
+      <img height="400px" width="450px" alt="Tarun" src="hello.gif" />
     </picture>
   </a>
 
