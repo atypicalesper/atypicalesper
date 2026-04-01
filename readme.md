@@ -46,6 +46,8 @@
     <a href="https://stackoverflow.com/users/atypicalesper">
       <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=atypicalesper&style=flat&color=blueviolet" alt="Profile Views" />
   </div>
 
   <br>
@@ -146,6 +148,42 @@
     </table>
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+  </div>
+
+  <br>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=📈%20Contribution%20Overview&fontSize=18&fontColor=fff" />
+
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atypicalesper&theme=tokyonight" alt="Repos Per Language" />
+        </td>
+        <td>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atypicalesper&theme=tokyonight" alt="Most Commit Language" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atypicalesper&theme=tokyonight" alt="Stats" />
+        </td>
+        <td>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atypicalesper&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+        </td>
+      </tr>
+    </table>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atypicalesper&theme=tokyonight" alt="Profile Details" />
+  </div>
+
+  <br>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=💬%20Dev%20Quote&fontSize=18&fontColor=fff" />
+
+  <div align="center">
+    <br>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <br>
   </div>
 
   <br>
