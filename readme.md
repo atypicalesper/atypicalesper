@@ -3,7 +3,11 @@
 <div align="center">
 
   <a href="https://atypicalesper.github.io/">
-    <img height="400px" width="450px" alt="Tarun" src="hello.gif" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&speed=20&lines=Hi%2C+This+is+Tarun%2C;a+software+developer%2C;based+in+Gurugram%2C+India" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=500&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&speed=20&lines=Hi%2C+This+is+Tarun%2C;a+software+developer%2C;based+in+Gurugram%2C+India" />
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&speed=20&lines=Hi%2C+This+is+Tarun%2C;a+software+developer%2C;based+in+Gurugram%2C+India" />
+    </picture>
   </a>
 
   <div align="center">
