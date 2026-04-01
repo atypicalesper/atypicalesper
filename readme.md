@@ -40,13 +40,6 @@
     <a href="https://linkedin.com/in/atypicalesper">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://reddit.com/user/atypicalesper">
-      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" />
-    </a>
-    <a href="https://stackoverflow.com/users/atypicalesper">
-      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-    </a>
-    &nbsp;
     <img src="https://komarev.com/ghpvc/?username=atypicalesper&style=flat&color=blueviolet" alt="Profile Views" />
   </div>
 
@@ -134,7 +127,7 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=604800" alt="GitHub Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atypicalesper&theme=tokyonight" alt="GitHub Stats" />
         </td>
         <td>
           <img src="https://streak-stats.demolab.com/?user=atypicalesper&theme=tokyonight&hide_border=false&cache_seconds=604800" alt="GitHub Streak" />
@@ -142,7 +135,7 @@
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicalesper&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=604800" alt="Top Languages" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atypicalesper&theme=tokyonight" alt="Top Languages" />
         </td>
       </tr>
     </table>
