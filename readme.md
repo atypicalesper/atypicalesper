@@ -2,7 +2,9 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Hi%2C+This+is+Tarun+%F0%9F%91%8B;a+software+developer%2C;based+in+Gurugram%2C+India" alt="Typing SVG" />
+  <a href="https://atypicalesper.github.io/">
+    <img height="400px" width="450px" alt="Tarun" src="hello.gif" />
+  </a>
 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=604800" alt="GitHub Trophies" />
