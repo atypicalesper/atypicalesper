@@ -7,7 +7,11 @@
   </a>
 
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=604800" alt="GitHub Trophies" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=604800" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=flat&no-frame=false&no-bg=true&margin-w=4&cache_seconds=604800" />
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=604800" />
+    </picture>
   </div>
 
   <br>
@@ -127,20 +131,36 @@
     <table>
       <tr>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atypicalesper&theme=tokyonight" alt="GitHub Stats" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atypicalesper&theme=tokyonight" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atypicalesper&theme=github" />
+            <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atypicalesper&theme=tokyonight" />
+          </picture>
         </td>
         <td>
-          <img src="https://streak-stats.demolab.com/?user=atypicalesper&theme=tokyonight&hide_border=false&cache_seconds=604800" alt="GitHub Streak" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=atypicalesper&theme=tokyonight&hide_border=false&cache_seconds=604800" />
+            <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=atypicalesper&theme=default&hide_border=false&cache_seconds=604800" />
+            <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=atypicalesper&theme=tokyonight&hide_border=false&cache_seconds=604800" />
+          </picture>
         </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atypicalesper&theme=tokyonight" alt="Top Languages" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atypicalesper&theme=tokyonight" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atypicalesper&theme=github" />
+            <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atypicalesper&theme=tokyonight" />
+          </picture>
         </td>
       </tr>
     </table>
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=github-light&hide_border=false&area=true" />
+      <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" />
+    </picture>
     <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atypicalesper/atypicalesper/output/github-contribution-grid-snake-dark.svg" />
@@ -155,7 +175,11 @@
 
   <div align="center">
     <br>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+      <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    </picture>
     <br>
   </div>
 
