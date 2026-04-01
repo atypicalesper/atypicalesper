@@ -2,9 +2,7 @@
 
 <div align="center">
 
-  <a href="https://atypicalesper.github.io/">
-    <img height="400px" width="450px" alt="Tarun" src="hello.gif" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Hi%2C+This+is+Tarun+%F0%9F%91%8B;a+software+developer%2C;based+in+Gurugram%2C+India" alt="Typing SVG" />
 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=atypicalesper&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
@@ -148,6 +146,12 @@
     </table>
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=atypicalesper&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+    <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atypicalesper/atypicalesper/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atypicalesper/atypicalesper/output/github-contribution-grid-snake.svg" />
+      <img alt="Contribution Snake" src="https://raw.githubusercontent.com/atypicalesper/atypicalesper/output/github-contribution-grid-snake.svg" />
+    </picture>
   </div>
 
   <br>
