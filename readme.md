@@ -53,6 +53,73 @@
 
   <br>
 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=24283b&height=40&text=Featured%20Projects&fontSize=18&fontColor=fff" />
+
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/atypicalesper/genlea">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=genlea&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=genlea&theme=default&hide_border=false&cache_seconds=86400" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=genlea&theme=tokyonight" alt="genlea — autonomous B2B lead-gen engine" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/atypicalesper/AgentItAll">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=AgentItAll&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=AgentItAll&theme=default&hide_border=false&cache_seconds=86400" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=AgentItAll&theme=tokyonight" alt="AgentItAll — autonomous agent platform" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/atypicalesper/prompt-lab">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=prompt-lab&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=prompt-lab&theme=default&hide_border=false&cache_seconds=86400" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=prompt-lab&theme=tokyonight" alt="prompt-lab — on-device LLM observability dashboard" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/atypicalesper/dev-atlas">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=dev-atlas&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=dev-atlas&theme=default&hide_border=false&cache_seconds=86400" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=dev-atlas&theme=tokyonight" alt="dev-atlas — developer knowledge base & interview prep" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/atypicalesper/token-savior">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=token-savior&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=token-savior&theme=default&hide_border=false&cache_seconds=86400" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=token-savior&theme=tokyonight" alt="token-savior — Anthropic token-cost optimization toolkit" />
+          </picture>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/atypicalesper/vector-lens">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=vector-lens&theme=tokyonight&hide_border=false&cache_seconds=86400" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=vector-lens&theme=default&hide_border=false&cache_seconds=86400" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=atypicalesper&repo=vector-lens&theme=tokyonight" alt="vector-lens — embeddings & semantic-retrieval explainer" />
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=24283b&height=40&text=Tech%20Stack&fontSize=18&fontColor=fff" />
 
   <table width="100%">
